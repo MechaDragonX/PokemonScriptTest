@@ -1,7 +1,3 @@
-'Complete FireRed scripting dump. Feel free to use it.
-'A small credit is nice but not strictly needed. -- HackMew
-'Decompiled by eXtreme Script Editor v1.0.1
-
 'PALLET TOWN [3.0]
 
 'Map Script
